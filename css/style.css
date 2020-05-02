@@ -1,0 +1,26 @@
+body {
+    background: #171d23;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.gameWindow button {
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 50%;
+    min-height: 300px;
+    border: 2px solid #3d7ab8;
+}
+
+.buttons button {
+    margin-top: 10px;
+}
+
+#input-num {
+    border: 1px solid #007bff;
+    margin-top: 10px;
+}
