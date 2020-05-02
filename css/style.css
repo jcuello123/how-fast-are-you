@@ -1,5 +1,6 @@
 body {
     background: #171d23;
+    font-size: 40px;
 }
 
 .container {
@@ -12,7 +13,7 @@ body {
     margin: 0 auto;
     margin-top: 50px;
     width: 50%;
-    min-height: 300px;
+    min-height: 400px;
     border: 2px solid #3d7ab8;
 }
 
